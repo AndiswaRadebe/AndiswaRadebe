@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndiswaRadebe
-- 👀 I’m interested in becoming a Software Engineer.
+- 👀 I’m interested in becoming a Full Stack Developer.
 - I'm currently studying Software Development.
 - 📫 How to reach me: radebealicia140@gmail.com
 
