@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AndiswaRadebe
+- 👋 Hi, I’m @Andiswa Alicia Radebe
 - 👀 I’m interested in becoming a Full Stack Developer.
 - I'm currently studying Software Development.
-- 📫 How to reach me: radebealicia140@gmail.com
+- 📫 How to reach me: aliciaradebe@outlook.com
 
 <!---
 AndiswaRadebe/AndiswaRadebe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
